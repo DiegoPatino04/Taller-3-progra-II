@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Hospital>
+	<Pisos>
+		<piso30 Id="3010">
+			<Numero_de_cama>5</Numero_de_cama>
+			<Numero_de_piso>30</Numero_de_piso>
+			<Numero_de_habitacion>10</Numero_de_habitacion>
+			<Paciente Id="andres">
+				<Numero_de_contacto>999</Numero_de_contacto>
+				<Full_Name>andres barrera</Full_Name>
+				<Estado>ACTIVE</Estado>
+			</Paciente>
+		</piso30>
+	</Pisos>
+</Hospital>

@@ -99,9 +99,9 @@ public class Presenter {
 						File[] folderfiles = files.listFiles();
 						for (int i = 0; i < folderfiles.length; i++) {
 							view.showMessage((i+1)+ ". "+folderfiles[i].getName());
-							runCode();
-							view.showMessage(Menu);
 					}
+						runCode();
+						view.showMessage(Menu);
 					break;
 				case '5':// salir
 					System.exit(0);
