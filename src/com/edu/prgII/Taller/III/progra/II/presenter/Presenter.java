@@ -62,7 +62,7 @@ public class Presenter {
             break;
           case '3':
             view.showMessage("Escogiste mostrar historial por paciente");
-
+          
             break;
           case '4':
             view.showMessage("Escogiste generar XML");

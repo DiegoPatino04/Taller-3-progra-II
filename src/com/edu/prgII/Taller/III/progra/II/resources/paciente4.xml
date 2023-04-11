@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hospital><Pisos><piso5 Id="5"><Numero_de_cama>1</Numero_de_cama><Numero_de_piso>5</Numero_de_piso><Numero_de_habitacion>5</Numero_de_habitacion><Paciente Id="4"><Numero_de_contacto>312</Numero_de_contacto><Full_Name>javier Lopez</Full_Name><Estado>ACTIVE</Estado></Paciente></piso5></Pisos></Hospital>
