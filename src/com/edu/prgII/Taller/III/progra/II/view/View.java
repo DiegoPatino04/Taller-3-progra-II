@@ -38,6 +38,13 @@ public class View {
 
   }
 
-
+  public boolean readBoolean (int number){
+    boolean x = false;
+    if(number==1){
+      x = true;
+      return x;
+    }
+    return x;
+  }
 
 }
