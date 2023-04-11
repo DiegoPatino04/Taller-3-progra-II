@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hospital><Pisos><piso7 Id="72"><Numero_de_cama>5</Numero_de_cama><Numero_de_piso>7</Numero_de_piso><Numero_de_habitacion>2</Numero_de_habitacion><Paciente Id="lala"><Numero_de_contacto>777</Numero_de_contacto><Full_Name>lala lola</Full_Name><Estado>ACTIVE</Estado></Paciente></piso7></Pisos></Hospital>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Hospital>
+	<Pisos>
+		<piso7 Id="72">
+			<Numero_de_cama>5</Numero_de_cama>
+			<Numero_de_piso>7</Numero_de_piso>
+			<Numero_de_habitacion>2</Numero_de_habitacion>
+			<Paciente Id="lala">
+				<Numero_de_contacto>777</Numero_de_contacto>
+				<Full_Name>lala lola</Full_Name>
+				<Estado>ACTIVE</Estado>
+			</Paciente>
+		</piso7>
+	</Pisos>
+</Hospital>

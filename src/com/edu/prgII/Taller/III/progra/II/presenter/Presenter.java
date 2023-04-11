@@ -6,7 +6,11 @@ import com.edu.prgII.Taller.III.progra.II.model.Hospital;
 import com.edu.prgII.Taller.III.progra.II.model.Room;
 import com.edu.prgII.Taller.III.progra.II.model.Status;
 import com.edu.prgII.Taller.III.progra.II.view.View;
-
+/**
+ * Andres barrera, javier lopez y Diego Patiño
+ * @author Diego Patiño
+ *
+ */
 public class Presenter {
 	private Hospital hospital;
 	private View view;
@@ -27,7 +31,7 @@ public class Presenter {
 		if (Character.isDigit(option)) {
 			if ('1' == option || option == '2' || option == '3' || option == '4' || option == '5') {
 				switch (option) {
-				case '1':// crear paciente.
+				case '1':// crear habitacion.
 					view.showMessage("escogiste crear habitacion");
 					int numFloor = view.readInt("Ingresa el numero de piso");
 					int numRoom = view.readInt("Ingrese el numero de la habitacion");

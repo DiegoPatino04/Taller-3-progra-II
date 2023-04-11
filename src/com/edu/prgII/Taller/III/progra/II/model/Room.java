@@ -1,7 +1,11 @@
 package com.edu.prgII.Taller.III.progra.II.model;
 
 import java.util.List;
-
+/**
+ * Andres barrera, javier lopez y Diego Patiño
+ * @author Diego Patiño
+ *
+ */
 public class Room {
 	private int bedNumbers;
 	private int floorNumbers;

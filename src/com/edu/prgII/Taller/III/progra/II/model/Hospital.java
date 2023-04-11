@@ -16,7 +16,11 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Andres barrera, javier lopez y Diego Patiño
+ * @author Diego Patiño
+ *
+ */
 public class Hospital {
 	private List<Patient> patients;
 	private List<Room> rooms;

@@ -1,7 +1,15 @@
 package com.edu.prgII.Taller.III.progra.II.view;
-
+/**
+ * Andres barrera, javier lopez y Diego Patiño
+ * @author Diego Patiño
+ *
+ */
 import java.util.Scanner;
-
+/**
+ * Andres barrera, javier lopez y Diego Patiño
+ * @author Diego Patiño
+ *
+ */
 public class View {
 	private Scanner box = new Scanner(System.in);
 
